@@ -1,2 +1,2 @@
 # WorldCraft
-An Open source RPG Setting
+An Open source RPG system
